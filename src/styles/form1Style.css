@@ -60,9 +60,11 @@ h2 {
 }
 .radio-group input{
     margin-right: 10px;
+    display: inline-block;
 }
 
 .radio-group label {
+  display: flex !important;
   font-weight: 500;
   color: #555;
 }
